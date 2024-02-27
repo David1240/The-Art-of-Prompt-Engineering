@@ -7,8 +7,8 @@ The project course is from CognitiveClass.ai. You can find it in [here](https://
 
 
 # Info
-Name: David Hamonangan Sirait(/n)
-Program: IBM Advance AI(/n)
+Name: David Hamonangan Sirait<br />
+Program: IBM Advance AI<br />
 Personal Mentor: Siska Anggraeni
 
 
