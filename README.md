@@ -4,7 +4,7 @@ This project explores the art of prompt engineering with AI models. It highlight
 
 The project course is from CognitiveClass.ai. You can find it in https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1
 
-Kunjungi W3Schools
+[test](https://www.linkedin.com/in/sina-nazeri/)
     
 
 
